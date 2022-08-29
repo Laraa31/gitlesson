@@ -1,2 +1,5 @@
 demo file
-new line
+new lin
+A
+another line
+e
