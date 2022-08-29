@@ -1,4 +1,3 @@
-3demo file
 new lin
 A
 another line
